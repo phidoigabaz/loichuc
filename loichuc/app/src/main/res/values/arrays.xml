@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="array_icon">
+        <item>@drawable/ic_twitter_117595</item>
+        <item>@drawable/ic_turtle_151431</item>
+        <item>@drawable/ic_tortoise_47047</item>
+        <item>@drawable/ic_teddy_bear_447422</item>
+        <item>@drawable/ic_squirrel_1456764</item>
+        <item>@drawable/ic_sowa_356552</item>
+        <item>@drawable/ic_howling_1254383</item>
+        <item>@drawable/ic_giraffe_40035</item>
+        <item>@drawable/ic_frog_157934</item>
+        <item>@drawable/ic_elephant_24722</item>
+        <item>@drawable/ic_dog_48490</item>
+        <item>@drawable/ic_dog_2729805</item>
+        <item>@drawable/ic_horse_color</item>
+        <item>@drawable/ic_cat_46676</item>
+        <item>@drawable/ic_pig</item>
+        <item>@drawable/ic_fox</item>
+        <item>@drawable/ic_snake</item>
+        <item>@drawable/ic_beer</item>
+        <item>@drawable/ic_cat</item>
+        <item>@drawable/icon_butterfly</item>
+    </integer-array>
+    <integer-array name="array_frame">
+        <item>@drawable/ic_frame_01</item>
+        <item>@drawable/ic_frame_02</item>
+        <item>@drawable/ic_frame_03</item>
+
+        <item>@drawable/ic_frame_11</item>
+    </integer-array>
+</resources>

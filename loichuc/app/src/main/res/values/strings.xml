@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">wish</string>
+    <string name="frame">Khung</string>
+    <string name="icon">Icon</string>
+    <string name="text">Text</string>
+    <string name="wish_text">Wishes</string>
+</resources>
